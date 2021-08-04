@@ -3,5 +3,5 @@
 "description": "Pool para proyectos de finanzas inteligentes y descentralizadas.Infra de 2 Raspberry Pi de bajo coste energético aportando así al cuidado del medio ambiente.",
 "ticker": "DBADA",
 "homepage": "https://donebit.ada.com/",
-"extended": "https://donebit.ada.com/extendedPoolMetaData.json"
+"extended": "https://github.com/dyronrh/donebit.ada/blob/main/poolMetaData.json"
 }
