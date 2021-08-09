@@ -1,7 +1,7 @@
 {
-"name": "Donebit",
-"description": "Pool para proyectos de finanzas inteligentes y descentralizadas.Infra de 2 Raspberry Pi de bajo coste energético aportando así al cuidado del medio ambiente.",
-"ticker": "DBADA",
-"homepage": "https://donebit.ada.com/",
-"extended": "https://github.com/dyronrh/donebit.ada/blob/main/poolMetaData.json"
+"name": "Atlazkoin ADA Pool",
+"description": "This pool is part of a project to increase passive income through pos on the cardano blockchain. Also for educational purposes we donate 5% of the pool rewards among the members of the atlazkoin community.",
+"ticker": "ADAKA",
+"homepage": "https://atlazkoin.com/adapool/",
+"extended": "https://raw.githubusercontent.com/dyronrh/atlazkoin.ada/main/poolMetaData-extended.json"
 }
