@@ -1,0 +1,60 @@
+{
+  "info": {
+    "url_png_icon_64x64": "https://atlazkoin.s3.us-east-2.amazonaws.com/logo/atlaz-koin_logo_64.png",
+    "url_png_logo": "https://atlazkoin.s3.us-east-2.amazonaws.com/logo/atlazkoin.png",
+    "location": "Santiago, Chile",
+    "social": {
+      "twitter_handle": "atlazkoin",
+      "telegram_handle": "atlazkoin",
+      "facebook_handle": "atlazkoin",
+      "youtube_handle": "",
+      "twitch_handle": "",
+      "discord_handle": "",
+      "github_handle": ""
+    },
+    "company": {
+      "name": "Atlazkoin",
+      "addr": "",
+      "city": "Santiago",
+      "country": "Chile",
+      "company_id": "",
+      "vat_id": ""
+    },
+    "about": {
+      "me": "[ADAKA] This pool is part of a project to increase passive income through pos on the cardano blockchain. Also for educational purposes we donate 5% of the pool rewards among the members of the atlazkoin community",
+      "server": "2 raspberry pi 4:  8 GB RAM, 250 GB Disk.",
+      "company": "Atlazkoin"
+    },
+    "rss": ""
+  },
+  "my-pool-ids": {
+    "0": "3af35e802fe6dba372640c1fbfa0ab15aadc4af17b91358387b2553f",
+    "1": ""
+  },
+  "when-satured-then-recommend": {
+    "0": "",
+    "1": ""
+  },
+  "telegram-admin-handle": {
+    "0": ""
+  },
+  "adapools_ext": {
+    "prometheus": {
+      "0": {
+        "name": "",
+        "type": "",
+        "key": ""
+      },
+      "1": {
+        "name": "",
+        "type": "",
+        "key": ""
+      },
+      "2": {
+        "name": "",
+        "type": "",
+        "key": ""
+      }
+    }
+  }
+}
